@@ -16,7 +16,7 @@ Perfect for a daily boost of confidence — built using `Tkinter`, with a custom
 - 💬 Displays a random motivational quote  
 - 🖱️ “Get Quote” button for refreshing inspiration  
 - 🎨 Custom GUI with header, color theme, and styled elements  
-- 🧠 Simple code structure — easy to expand with your own quotes!  
+- 🧠 Simple code structure — easy to expand with your own quotes !  
 
 ---
 
@@ -28,9 +28,11 @@ Perfect for a daily boost of confidence — built using `Tkinter`, with a custom
 
 ## 🚀 How to Run
 
-1. **Clone this repository** or download the ZIP  
+1. **Clone this repository** or download the ZIP
+   
 2. Make sure you have Python installed  
-3. Run the script using:
+3. Run the script using :
+   
 ```bash
 python motivation_quotes.py
 ```
