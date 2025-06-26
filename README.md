@@ -37,7 +37,7 @@ python motivation_quotes.py
 
 ⸻
 
-🧠 What I Learned
+🧠 What I Learned : 
 	•	How to use Tkinter to layout headers, buttons, and quote areas
 	•	How to display dynamic text inside GUI elements
 	•	How to enhance UX using fonts, padding, and colors
