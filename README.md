@@ -13,6 +13,7 @@ Perfect for a daily boost of confidence — built using `Tkinter`, with a custom
 ---
 
 ## ✨ Features  
+
 - 💬 Displays a random motivational quote  
 - 🖱️ “Get Quote” button for refreshing inspiration  
 - 🎨 Custom GUI with header, color theme, and styled elements  
